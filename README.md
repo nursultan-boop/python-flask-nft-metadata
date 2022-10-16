@@ -20,7 +20,7 @@ after that install flask using `pip install flask`
 
 # example
 
-enter "3LZ9ezL5BkCtvdVGLkrw1q633EgfeYDpgGtBgWDgmaSU" as an adress and get tne following result:
+enter `3LZ9ezL5BkCtvdVGLkrw1q633EgfeYDpgGtBgWDgmaSU` as an adress and get tne following result:
 
 {"mint":"3LZ9ezL5BkCtvdVGLkrw1q633EgfeYDpgGtBgWDgmaSU","standard":"metaplex","name":"Baby Yetis #257","symbol":"","metaplex":
 
