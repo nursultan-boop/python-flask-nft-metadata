@@ -46,9 +46,9 @@ def form_example():
                 <h1>{}</h1>
                   '''.format(returnValue)
     
-    # otherwise handle the GET request
+    # otherwise handle the GET request   
     return '''
-           <form method="POST">
+           <form method="POST"style="margin: auto; width: 220px; text-align: center;">
                <div><label>address: <input type="text" name="address"></label></div>
                <input type="submit" value="Submit">
            </form>'''
